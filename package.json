@@ -1,6 +1,4 @@
 {
-  "name": "Scrim-s058cfo",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0hl/s01bjmomnn/head",
   "scripts": {
     "start": "vite",
     "dev": "vite",
